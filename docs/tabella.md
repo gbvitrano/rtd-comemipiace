@@ -129,7 +129,7 @@ bla| uffffllf dd| kkkdkkd| jjjjjj| 56789| 67890ssss sss | 78901010181818 iiis| 8
 
 ---
 
-## Tabella tipo HFCqgis
+## Tabella tipo HfcQGIS
 
 nro|Esempio|Descrizione|Autore
 ---:|------:|:----------|:------:
