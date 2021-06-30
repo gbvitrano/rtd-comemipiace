@@ -129,3 +129,22 @@ bla| uffffllf dd| kkkdkkd| jjjjjj| 56789| 67890ssss sss | 78901010181818 iiis| 8
 
 ---
 
+## Tabella tipo HFCqgis
+
+nro|Esempio|Descrizione|Autore
+---:|------:|:----------|:------:
+1|[campo area](add_col_area.md)|aggiungere colonna area per calcolo superficie|Pigreco
+2|[campi coordinate](add_coord_xy.md)|aggiungere colonne coordinate x e y|Pigreco
+3|[campo virtuale](add_campo_virtuale.md)|aggiungere campo virtuale|Pigreco
+4|[campo quota z](add_col_z.md)|aggingere colonna quota con valori z|Pigreco
+5|[etichettare](etichette.md)|etichettare usando il campo geometry|Pigreco
+6|[aggiornare geometria](agg_geom.md)|aggiornare il campo geometry|Pigreco
+7|[conversione](conversione.md)|etichettare punti da sessadecimali a sessagesimali|Pigreco
+8|[tematizzare](tematizzare.md)|Tematizzare utilizzando la sovrascrittura definita dai dati|Pigreco
+9|[legenda](espressione_regolare.md)|Legenda con testo lungo, inserimento carattere speciale|Pigreco
+10|[selezione](select_with_aggregate.md)|Seleziona usando le funzioni di aggregazione|Pigreco
+11|[core area](core_area.md)|Calcola la core area di un poligono | Ludovico Frate
+12|[sposta etichette](sposta_etichetta_linea.md)|Sposta etichetta e genera segmento|Pigreco
+13|[conteggio valori](conteggio.md)|Conteggio valori in un campo|Pigreco
+14|[centroidi linee curve](centroid_linee.md)|Centroide lungo le linee curve|Pigreco
+
